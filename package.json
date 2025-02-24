@@ -1,0 +1,23 @@
+{
+  "name": "project9",
+  "version": "1.0.0",
+  "description": "**Objective** In this assignment, you will build a realtime collaborative whiteboard application using **Socket.IO**. The application will consist of:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
+  },
+  "devDependencies": {
+    "vite": "^6.1.1"
+  }
+}
